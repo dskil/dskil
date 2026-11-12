@@ -1,1 +1,1 @@
-<img src="./banner_1.gif" alt="Баннер профиля dskil" width="100%" />
+<img src="./banner_1.gif" alt="Banner" width="100%" />
