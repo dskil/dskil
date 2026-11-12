@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="./banner.png" alt="Баннер профиля dskil" width="100%" />
-</div>
+![Баннер профиля dskil](./banner_1.gif)
