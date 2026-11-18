@@ -1,3 +1,5 @@
+<img src="./banner1.gif" alt="Banner" width="100%" />
+
 # Hi, I'm dskil 👋
 
 Backend & Cybersecurity student · Python · FastAPI · networks & security
@@ -19,7 +21,7 @@ and Telegram bots. Everything I publish is legal-by-design and tested.
 
 ---
 
-## 🚀 What I'm working on
+## 📦 Projects
 
 | Project | What it is |
 |---|---|
@@ -40,12 +42,12 @@ and Telegram bots. Everything I publish is legal-by-design and tested.
 
 ## 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dskil-26A5E4?logo=telegram&logoColor=white)](https://t.me/dskil)
 [![Email](https://img.shields.io/badge/Email-claudedskil@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:claudedskil@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white)](https://github.com/dskil)
 
 <!-- Once available, enable these:
-[![Habr](https://img.shields.io/badge/Habr-dev.to-2962FF?logo=rss&logoColor=white)](https://habr.com/ru/users/dskil/)
+[![Habr](https://img.shields.io/badge/Habr-2962FF?logo=rss&logoColor=white)](https://habr.com/ru/users/dskil/)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/dskil)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 -->
 
