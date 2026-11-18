@@ -4,8 +4,8 @@
 
 Backend & Cybersecurity student · Python · FastAPI · networks & security
 
-I build small, honest tools: read-only network utilities, algorithm trainers
-and Telegram bots. Everything I publish is legal-by-design and tested.
+I build small, honest tools: read-only network utilities and algorithm
+trainers. Everything I publish is legal-by-design and tested.
 
 ---
 
@@ -14,8 +14,8 @@ and Telegram bots. Everything I publish is legal-by-design and tested.
 | Area | What I use |
 |---|---|
 | **Language** | Python 3.9+ (stdlib-first), a bit of Bash |
-| **Databases** | SQL, PostgreSQL — schema design, indexes, queries |
-| **OS / Network** | Linux (bash, systemd, ip/ss), TCP/IP, DNS, ARP, TLS |
+| **Databases** | SQL — MySQL, SQLite |
+| **OS / Network** | Windows, Linux (bash, systemd, ip/ss), TCP/IP, DNS, ARP, TLS |
 | **Tooling** | Git, GitHub Actions, Docker, pytest, curl, tcpdump |
 | **Web** | FastAPI, HTTP/REST, JSON |
 
@@ -27,13 +27,11 @@ and Telegram bots. Everything I publish is legal-by-design and tested.
 |---|---|
 | **[netpeek](https://github.com/dskil/netpeek)** <br/>![CI](https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg) ![license](https://img.shields.io/github/license/dskil/netpeek) | A legal, read-only look at your own network — who is connected, your IP/MAC/DNS, listening ports and a security score. One tool, two names: `netpeek` and `fsociety`. Python 3.9+, zero runtime dependencies, Windows/Linux/macOS. |
 | **[dsa-python-notes](https://github.com/dskil/dsa-python-notes)** | Тренажёр по алгоритмам на Python: 86 задач с автотестами. Arrays, hash maps, two pointers, recursion, sorting, graphs. |
-| **[telegram-vpn-bot](https://github.com/dskil/telegram-vpn-bot)** 🔒 | Private Telegram bot for VPN access management. |
 
 ---
 
 ## 📊 GitHub
 
-![Top languages](https://img.shields.io/github/languages/top/dskil/netpeek?label=netpeek%20lang)
 ![Python version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![CI](https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg)
 ![License](https://img.shields.io/github/license/dskil/netpeek)
