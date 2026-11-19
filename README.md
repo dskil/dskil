@@ -35,4 +35,4 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white)](https://github.com/dskil)
 
-Почта: claudedskil@gmail.com
+Почта: В профиле
