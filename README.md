@@ -26,7 +26,7 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 
 | Project | What it is |
 |---|---|
-| **[netpeek](https://github.com/dskil/netpeek)** <br/>![PyPI](https://img.shields.io/pypi/v/netpeek) ![CI](https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg) ![license](https://img.shields.io/github/license/dskil/netpeek) | A legal, read-only look at your own network — who is connected, your IP/MAC/DNS, listening ports and a security score. One tool, two names: `netpeek` and `fsociety`. `pipx install netpeek`, Windows/Linux/macOS. |
+| **[netpeek](https://pypi.org/project/netpeek/)** <br/>![PyPI](https://img.shields.io/pypi/v/netpeek) ![CI](https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg) ![license](https://img.shields.io/github/license/dskil/netpeek) | A legal, read-only look at your own network — who is connected, your IP/MAC/DNS, listening ports and a security score. One tool, two names: `netpeek` and `fsociety`.<br/>`pipx install netpeek` |
 | **[dsa-python-notes](https://github.com/dskil/dsa-python-notes)** <br/>![CI](https://github.com/dskil/dsa-python-notes/actions/workflows/tests.yml/badge.svg) | Тренажёр по алгоритмам на Python: 86 задач с автотестами. Arrays, hash maps, two pointers, recursion, sorting, graphs. |
 
 ---
@@ -35,4 +35,4 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white)](https://github.com/dskil)
 
-Почта: В профиле
+Почта: claudedskil@gmail.com
