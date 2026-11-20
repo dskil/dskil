@@ -28,14 +28,14 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 
 | Project | What it is |
 |---|---|
-| **[netpeek](https://pypi.org/project/netpeek/)** <br/>![PyPI](https://img.shields.io/pypi/v/netpeek) ![CI](https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg) ![license](https://img.shields.io/github/license/dskil/netpeek) | A legal, read-only look at your own network — who is connected, your IP/MAC/DNS, listening ports and a security score. One tool, two names: `netpeek` and `fsociety`.<br/>`pipx install netpeek` |
-| **[dsa-python-notes](https://github.com/dskil/dsa-python-notes)** <br/>![CI](https://github.com/dskil/dsa-python-notes/actions/workflows/tests.yml/badge.svg) | Тренажёр по алгоритмам на Python: 86 задач с автотестами. Arrays, hash maps, two pointers, recursion, sorting, graphs. |
+| **[netpeek](https://pypi.org/project/netpeek/)** <br/><a href="https://pypi.org/project/netpeek/"><img src="https://img.shields.io/pypi/v/netpeek?cacheSeconds=300" alt="PyPI version"></a> <img src="https://github.com/dskil/netpeek/actions/workflows/tests.yml/badge.svg" alt="tests"> <img src="https://img.shields.io/github/license/dskil/netpeek" alt="license"> | A legal, read-only look at your own network — who is connected, your IP/MAC/DNS, listening ports and a security score. One tool, two names: `netpeek` and `fsociety`.<br/>`pipx install netpeek` |
+| **[dsa-python-notes](https://github.com/dskil/dsa-python-notes)** <br/><img src="https://github.com/dskil/dsa-python-notes/actions/workflows/tests.yml/badge.svg" alt="tests"> | Тренажёр по алгоритмам на Python: 86 задач с автотестами. Arrays, hash maps, two pointers, recursion, sorting, graphs. |
 
 ---
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white)](https://github.com/dskil)
-[![PyPI](https://img.shields.io/badge/PyPI-netpeek-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/netpeek/)
+<a href="https://github.com/dskil"><img src="https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://pypi.org/project/netpeek/"><img src="https://img.shields.io/badge/PyPI-netpeek-3775A9?logo=pypi&logoColor=white" alt="PyPI"></a>
 
 Почта: claudedskil@gmail.com
