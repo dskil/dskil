@@ -8,6 +8,8 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 пишу сетевые утилиты и тренажёры по алгоритмам на чистом Python, разбираюсь
 с TCP/IP, DNS и TLS на практике. Довожу `netpeek` до стабильного релиза.
 
+<sub>📦 Мой пакет на PyPI: **[pypi.org/project/netpeek](https://pypi.org/project/netpeek/)**</sub>
+
 ---
 
 ## 🛠 Stack
@@ -34,5 +36,6 @@ Backend & Cybersecurity student · Python · FastAPI · networks & security
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dskil-181717?logo=github&logoColor=white)](https://github.com/dskil)
+[![PyPI](https://img.shields.io/badge/PyPI-netpeek-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/netpeek/)
 
 Почта: claudedskil@gmail.com
